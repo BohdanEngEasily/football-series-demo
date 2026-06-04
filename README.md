@@ -11,4 +11,4 @@ Technologies:
 * Selenium
   
 Purpose:
-This repository demonstrates the architecture and core functionality of a football analytics project.
+*This repository demonstrates the architecture and core functionality of a football analytics project.
