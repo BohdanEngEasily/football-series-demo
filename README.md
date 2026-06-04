@@ -3,8 +3,9 @@ Python application for football data collection and streak analysis.
 
 Features:  
 * Match data collection
-* Series and pattern detection
 * Automated processing tools
+* Series and pattern detection
+
   
 Technologies:  
 * Python
